@@ -76,7 +76,7 @@ AI chose: Rock
 AI wins!
 ```
 
-📜 License
+## 📜 License
 
 This project is licensed under the MIT License. Feel free to modify and use it as you like!
 
